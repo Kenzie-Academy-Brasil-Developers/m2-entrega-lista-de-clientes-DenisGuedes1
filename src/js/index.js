@@ -46,4 +46,4 @@ const renderizaCards = async () => {
   });
 };
 
-renderizaCards();
+renderizaCards()
