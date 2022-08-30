@@ -1,4 +1,4 @@
-import { Api } from "../api.js";
+import { Api } from "../js/api.js";
 
 const rederCard = (pessoa) => {
   const li = document.createElement("li");
@@ -46,4 +46,4 @@ const renderizaCards = async () => {
   });
 };
 
-renderizaCards()
+renderizaCards();

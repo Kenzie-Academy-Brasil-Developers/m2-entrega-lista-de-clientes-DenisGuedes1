@@ -1,4 +1,4 @@
-import { Api } from "../api.js";
+import { Api } from "../js/api.js";
 
 const customers = await Api.listarClientes();
 const selector = document.querySelector(".select");

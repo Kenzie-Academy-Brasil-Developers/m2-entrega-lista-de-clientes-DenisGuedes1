@@ -1,4 +1,4 @@
-import { Api } from "../api.js";
+import { Api } from "../js/api.js";
 
 const registro = (event) => {
   event.preventDefault();
