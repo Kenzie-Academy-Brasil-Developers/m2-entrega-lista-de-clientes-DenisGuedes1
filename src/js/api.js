@@ -28,7 +28,7 @@ class Api {
                 method: "PATCH",
                 body: JSON.stringify(dataBase),
                 headers: {
-                    "Content-Type": "application/json;charset = UTF-8"
+                    "Content-Type": "application/json"
                     
                     
                 }
